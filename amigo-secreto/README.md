@@ -22,9 +22,7 @@ Este é um projeto simples para sorteio de amigo secreto, onde os usuários pode
 
 ## 📋 Como Usar
 
-1. Clone este repositório:
-
-1.1. git clone https://github.com/seu-usuario/amigo-secreto.git
+1. Clone este repositório: git clone https://github.com/seu-usuario/amigo-secreto.git
 
 2. Abra o arquivo index.html no navegador.
 
