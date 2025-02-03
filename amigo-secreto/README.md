@@ -4,13 +4,13 @@ Este é um projeto simples para sorteio de amigo secreto, onde os usuários pode
 
 ## 🚀 Funcionalidades
 
-Adicionar nomes à lista
+- Adicionar nomes à lista
 
-Validação para impedir entradas vazias
+- Validação para impedir entradas vazias
 
-Exibir a lista de participantes
+- Exibir a lista de participantes
 
-Sortear um nome aleatoriamente
+- Sortear um nome aleatoriamente
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -24,7 +24,7 @@ Sortear um nome aleatoriamente
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+  git clone https://github.com/seu-usuario/amigo-secreto.git
 
 2. Abra o arquivo index.html no navegador.
 
