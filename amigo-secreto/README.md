@@ -14,23 +14,23 @@ Sortear um nome aleatoriamente
 
 ## 🛠️ Tecnologias Utilizadas
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
 ## 📋 Como Usar
 
-Clone este repositório:
+1. Clone este repositório:
 
 git clone https://github.com/seu-usuario/amigo-secreto.git
 
-Abra o arquivo index.html no navegador.
+2. Abra o arquivo index.html no navegador.
 
-Digite um nome no campo de entrada e clique em "Adicionar".
+3. Digite um nome no campo de entrada e clique em "Adicionar".
 
-Para realizar o sorteio, clique em "Sortear Amigo".
+4. Para realizar o sorteio, clique em "Sortear Amigo".
 
 ## 📷 Capturas de Tela
 
