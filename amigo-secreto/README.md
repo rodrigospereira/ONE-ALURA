@@ -22,7 +22,7 @@ Este é um projeto simples para sorteio de amigo secreto, onde os usuários pode
 
 ## 📋 Como Usar
 
-1. Clone este repositório: git clone [[https://github.com/seu-usuario/amigo-secreto.git](https://github.com/rodrigospereira/ONE-ALURA/tree/main/amigo-secreto)](https://github.com/rodrigospereira/ONE-ALURA/tree/main/amigo-secreto)
+1. Clone este repositório: git clone [https://github.com/rodrigospereira/ONE-ALURA/tree/main/amigo-secreto](https://github.com/rodrigospereira/ONE-ALURA/tree/main/amigo-secreto)
 
 2. Abra o arquivo index.html no navegador.
 
